@@ -1,0 +1,3 @@
+﻿  源.cpp
+G:\大学\大二\程序\简易迷宫\easy maze\easy maze\源.cpp(28,20): warning C4244: “=”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  easy maze.vcxproj -> G:\大学\大二\程序\简易迷宫\easy maze\Debug\easy maze.exe
